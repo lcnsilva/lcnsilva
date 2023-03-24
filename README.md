@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @lcnsilva
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Olá, meu nome é Luciano Silva.
+- Atualmente estou aprendendo Linguagem C. Também estou explorando conteúdos sobre SQL, Git e Linux.
 
-<!---
-wohsq/wohsq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, my name is Luciano Silva.
+- 🌱 I’m currently learning C language, SQL and Git.
