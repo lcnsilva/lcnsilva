@@ -1,5 +1,5 @@
-<h1>Hi, I'm Luciano Silva. </h1> 
-<h4>Currently studying to be a Backend Developer.</h4>
+#  Hi, I'm Luciano Silva. 
+##  Currently studying to be a Backend Developer.
 <p></p>
 <h2> Learning:
 <p></p>
@@ -9,6 +9,7 @@
 <a href="https://instagram.com/lcnsilvaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riquelmepsoares" height="30" width="40" /></a>
 <p></p>
 <p></p>
+
 
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lcnsilva&layout=compact&bg_color=000&border_color=30A3DC&title_color=165EAF&text_color=FFF)
