@@ -1,5 +1,6 @@
-#  Hi, I'm Luciano Silva. 
-##  Currently studying to be a Backend Developer.
+# Hi, I'm Luciano Silva. 
+## Currently studying to be a Backend Developer.
+<div>
 <p></p>
 <h2> Learning:
 <p></p>
@@ -7,15 +8,12 @@
 <h2> Social: <p></p>
 <a href="https://linkedin.com/in/lcnsilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riquelme-soares" height="30" width="40" /></a>
 <a href="https://instagram.com/lcnsilvaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riquelmepsoares" height="30" width="40" /></a>
-<p></p>
-<p></p>
+</div>
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lcnsilva&layout=compact&bg_color=000&border_color=30A3DC&title_color=165EAF&text_color=FFF)   <h4>[![GitHub Streak](https://streak-stats.demolab.com/?user=lcnsilva&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)</h4> 
 
 
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lcnsilva&layout=compact&bg_color=000&border_color=30A3DC&title_color=165EAF&text_color=FFF)
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lcnsilva&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 
 
