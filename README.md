@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Luciano Silva</h1>
-<h3 align="left">Currently studying to be a Backend Developer.</h3>
+<h3 align="left">Currently studying to be a Fullstack Developer.</h3>
 
 ## 📚 Learning
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
